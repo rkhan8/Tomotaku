@@ -1,0 +1,23 @@
+{
+  "name": "tomotaku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "cleverbot-node": "^0.2.1",
+    "discord.js": "^6.1.0",
+    "ffmpeg": "0.0.4",
+    "geoip-lite": "^1.1.7",
+    "public-ip": "^1.2.0",
+    "request": "^2.69.0",
+    "simsimi": "^2.0.0",
+    "superagent": "^1.8.2"
+  }
+}
